@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Zombigriefer
 - 👀 I’m interested in Java and HTML
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java
+- 📫 How to reach me zombigriefer#3960 < discord
 
 <!---
 Zombigriefer/Zombigriefer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
